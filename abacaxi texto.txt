@@ -1,1 +1,1 @@
-print(aopaaaa bom o carequinha enssina bem ):
+print(aopaaaa bom o carequinha ensina bem ):
