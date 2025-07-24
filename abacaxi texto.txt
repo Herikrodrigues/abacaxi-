@@ -1,1 +1,94 @@
-print(aopaaaa bom o carequinha ensina bem ):
+<!DOCTYPE html>
+<html lang="pt-br">
+<style>
+/* Estilo para dividir o texto em duas colunas */
+body {
+    column-count: 2; /* Divide o texto em duas colunas */
+    column-gap: 20px; /* Espaçamento entre as colunas */
+}
+</style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>joão</title>
+</head>
+<body>
+    <h1>João é esforçado</h1>
+    <p>João é um aluno muito dedicado, mas às vezes ele comete erros bobos.</p>
+    <p>Ele sempre tenta fazer o melhor, mas às vezes acaba se confundindo.</p>
+    <img src="Nova pasta/imagens/71Mk+bH+IpL._AC_UF1000,1000_QL80_.jpg" alt="João estudando" width="150" height="140">
+    <h2>O professor disse a verdade</h2>
+    <p>O professor disse que é normal cometer erros, o importante é aprender com eles.</p>
+    <h3>João reconhece seus erros</h3>
+    <img src="Nova pasta/imagens/gettyimages-479115310-612x612.jpg" alt="João refletindo" width="150" height="140">
+    <p>João diz que não se importa com o que os outros pensam, ele sabe que está aprendendo.</p>
+    <br>
+    <h4>João é um bom aluno</h4>
+    <img src="Nova pasta/imagens/i447744.jpeg" alt="João estudando" width="150" height="140">
+    <p>Apesar dos erros, João é um bom aluno e sempre busca melhorar.</p>
+    <h5>João estuda muito</h5>
+    <img src="Nova pasta/imagens/images.jpg" alt="João estudando" width="150" height="140">
+    <p>Ele dedica muito tempo aos estudos e está sempre disposto a aprender mais.</p>
+    <h6>João é persistente</h6>
+    <img src="Nova pasta/imagens/w2i5mq6n.jpg" alt="João persistente" width="150" height="140">
+    <p>João é persistente e não desiste facilmente, mesmo quando enfrenta dificuldades.</p>
+</body>
+</html>
+<style>
+/* Estilos CSS para a página */
+
+body {
+    background-color: #1e1e2f; /* cor de fundo elegante */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* fonte moderna */
+    color: #e0e0e0; /* cor padrão do texto */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #ff6f61; /* tom vibrante para destaque */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* sombra para elegância */
+}
+
+h2 {
+    color: #ff8566; /* tom complementar */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+}
+
+h3, h4, h5, h6 {
+    color: #ffa07a; /* tons suaves */
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+p {
+    color: #dcdcdc; /* cor neutra para texto */
+    line-height: 1.6; /* espaçamento para melhor leitura */
+}
+
+img {
+    border: 3px solid #ff6f61; /* borda com cor de destaque */
+    border-radius: 15px; /* bordas arredondadas */
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5); /* sombra para profundidade */
+}
+p, h1, h2, h3, h4, h5, h6 {
+    color: #add8e6; /* azul claro */
+}
+/* Estilo para tabelas */
+table {
+    border-collapse: collapse; /* Remove espaços entre bordas */
+    margin: 10px; /* Espaçamento entre tabelas */
+    display: inline-block; /* Permite que as tabelas fiquem lado a lado */
+    vertical-align: top; /* Alinha as tabelas ao topo */
+}
+
+th, td {
+    border: 1px solid #add8e6; /* Borda azul claro */
+    padding: 8px; /* Espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+    color: #e0e0e0; /* Cor do texto */
+}
+
+a {
+    color: #87ceeb; /* azul céu */
+    text-decoration: none; /* sem sublinhado */
+}
